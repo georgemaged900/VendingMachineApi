@@ -37,7 +37,7 @@ FlapKap/
 1. Prerequisites
 - [.NET 8 SDK or later](https://dotnet.microsoft.com/en-us/download)
 - (Optional) IDE: Visual Studio 2022 
-- Git (if cloning from version control)
+- Git (if cloning from version control)  (https://github.com/georgemaged900/VendingMachineApi.git)
 
 
 
